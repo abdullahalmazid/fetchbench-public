@@ -1,0 +1,6 @@
+Thumbs.db
+.DS_Store
+# Release files are uploaded to GitHub Releases, not committed
+*.exe
+*.msi
+*.zip

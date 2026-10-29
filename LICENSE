@@ -1,0 +1,28 @@
+Fetchbench — End User License
+
+Copyright (c) 2026 Abdullah Al Mazid. All rights reserved.
+
+1. Use. You may download, install and use Fetchbench and its browser
+   extension free of charge, for personal or commercial purposes.
+
+2. Restrictions. You may not, without written permission from the author:
+   (a) sell, rent or sublicense Fetchbench or the extension;
+   (b) redistribute modified versions of Fetchbench or the extension;
+   (c) reverse engineer, decompile or disassemble Fetchbench, except where
+       applicable law expressly permits it despite this restriction.
+   Sharing an unmodified copy of the official installer, free of charge and
+   with this license, is allowed.
+
+3. Third-party tools. Fetchbench can download and run third-party tools
+   (such as yt-dlp, FFmpeg and Deno) at your request. Those tools are not part
+   of Fetchbench and are covered by their own licenses.
+
+4. Your responsibility. You are responsible for what you download and for
+   complying with copyright law and the terms of the websites you use.
+
+5. No warranty. Fetchbench is provided "as is", without warranty of any kind.
+   To the maximum extent permitted by law, the author is not liable for any
+   damages arising from its use.
+
+6. Source code. The source code of the Fetchbench application is not public.
+   This repository contains the browser extension, documentation and releases.
