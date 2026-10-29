@@ -39,6 +39,8 @@ Fetchbench is new and made by one person, so here is how you can check it yourse
 **Virus scan**
 - The installer has been scanned by about 70 antivirus engines on VirusTotal:
   [see the scan result](https://www.virustotal.com/gui/file/c1bdd145cd4dd1e4d9e3f9f40d015dc59878b89e634048f475426a37d96cc50b) (version 0.1.0).
+- Result: 69 of 71 engines find nothing, including Avast, AVG, Avira and Bitdefender. Two engines that guess from
+  file patterns (Arctic Wolf, SecureAge) flag it. This is common for new apps that aren't code-signed yet.
 - Fetchbench also asks Microsoft Defender to scan every file it downloads (Settings → Security).
 
 **Why does Windows show "Windows protected your PC"?**
